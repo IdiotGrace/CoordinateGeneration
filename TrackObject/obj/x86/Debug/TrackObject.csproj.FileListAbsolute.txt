@@ -11,3 +11,16 @@ F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.pdb
 F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\MediaInfoDotNet.dll
 F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\MediaInfoDotNet.xml
 F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.csprojResolveAssemblyReference.cache
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\Interop.MediaPlayer.dll
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\Interop.WMPLib.dll
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.csproj.ResolveComReference.cache
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.exe
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.pdb
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\bin\Debug\TrackObject.exe
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\bin\Debug\TrackObject.pdb
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\bin\Debug\MediaInfoDotNet.dll
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\bin\Debug\MediaInfoDotNet.xml
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.csprojResolveAssemblyReference.cache
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.vedioForm.resources
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.Properties.Resources.resources
+G:\Workspaces\VS2010\CoordinateGeneration\TrackObject\obj\x86\Debug\TrackObject.csproj.GenerateResource.Cache

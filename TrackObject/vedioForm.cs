@@ -28,8 +28,20 @@ namespace TrackObject
             VideoHeight = Convert.ToInt32(MI.Get(StreamKind.Video, 0, "Height"));
             duration = Convert.ToInt32(MI.Get(StreamKind.Video, 0, "Duration"));
             MI.Close();
-            pictureBox1.Width = (int)((double)VideoWidth*0.8);
-            pictureBox1.Height = (int)((double)VideoHeight*0.8);
+            double pencetageW = VideoWidth / 1266.0;
+            double pencetageH = VideoHeight / 568.0;
+            double pencerage = pencetageW >= pencetageH ? pencetageW : pencetageH;
+            if (pencetageW <= 1.0 && pencetageH <= 1.0)
+            {
+                pictureBox1.Width = (int)((double)VideoWidth * 1.0);
+                pictureBox1.Height = (int)((double)VideoHeight * 1.0);
+            }
+            else
+            {
+                pictureBox1.Width = (int)((double)VideoWidth / pencerage);
+                pictureBox1.Height = (int)((double)VideoHeight / pencerage);
+            }
+            
             picX = pictureBox1.Location.X;
             picY = pictureBox1.Location.Y;
             picHeight = pictureBox1.Height;
