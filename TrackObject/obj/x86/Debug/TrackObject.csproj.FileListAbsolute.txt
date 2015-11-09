@@ -1,0 +1,13 @@
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\Interop.MediaPlayer.dll
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\Interop.WMPLib.dll
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.csproj.ResolveComReference.cache
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.vedioForm.resources
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.Properties.Resources.resources
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.csproj.GenerateResource.Cache
+F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\TrackObject.exe
+F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\TrackObject.pdb
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.exe
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.pdb
+F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\MediaInfoDotNet.dll
+F:\Workspaces\VS2010\TrackObject\TrackObject\bin\Debug\MediaInfoDotNet.xml
+F:\Workspaces\VS2010\TrackObject\TrackObject\obj\x86\Debug\TrackObject.csprojResolveAssemblyReference.cache
